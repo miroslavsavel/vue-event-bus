@@ -11,3 +11,18 @@ https://softauthor.com/vuejs-eventbus-send-data-between-components/
 
 -> eventbus project
 https://www.youtube.com/watch?v=jzh4zQcfB0o
+
+
+!!! problemy s webpackom
+https://blog.logrocket.com/using-event-bus-in-vue-js-to-pass-data-between-components/
+
+
+!!!
+https://reactgo.com/vue-event-bus/
+
+# vue 3 odstranili stary sposob API event bus =
+/////////////////
+podla offic doc sa to musi riesit cez externu kniznicu
+https://medium.com/@certosinolab/using-event-bus-in-vue-js-3-425aae8c21a6
+
+npm install --save mitt
